@@ -1,5 +1,7 @@
 # Detect Malicious URLs using Machine Learning
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kolo-vrat/detect-malicious-url-ml/blob/main/DetectMaliciousURL.ipynb)
+
 This project is created as part for the course Digital Forensics.
 
 #### Install the required packages
